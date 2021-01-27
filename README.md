@@ -25,3 +25,4 @@ stamina:
 	and when the stamina bar is completely lowered you can only perform a simple dash until its full again
 
 that's all the information you need, there may be some glitches because the game is still in progress
+if you want to report anything please send to Toaster#4714 via discord
